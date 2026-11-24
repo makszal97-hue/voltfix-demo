@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8"><!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Пользовательское соглашение — VoltFix</title>
+<style>
+body{font-family:system-ui,-apple-system,sans-serif;background:#0d0f12;color:#e5e7eb;line-height:1.65;padding:40px 20px;max-width:780px;margin:0 auto}
+h1{color:#fff;font-size:28px;border-bottom:1px solid #262b36;padding-bottom:16px;margin-bottom:24px}
+h2{color:#00e5ff;font-size:18px;margin:26px 0 10px}
+p{font-size:15px;color:#9ca3af;margin-bottom:10px}
+.btn{display:inline-block;margin-top:30px;background:#00e5ff;color:#000;font-weight:800;padding:14px 28px;border-radius:10px;text-decoration:none;font-size:15px}
+</style>
+</head>
+<body>
+<h1>Пользовательское соглашение сервиса «VoltFix»</h1>
+
+<h2>1. Общие положения</h2>
+<p>1.1. Настоящее Пользовательское соглашение регулирует порядок использования сайта сервисного центра «VoltFix» и оформления онлайн-заявок на диагностику, ремонт и техническое обслуживание электротранспорта.</p>
+<p>1.2. Проставление отметки в поле согласия при отправке заявки означает полное и безоговорочное принятие Заказчиком всех условий данного документа.</p>
+
+<h2>2. Порядок записи и проведения диагностики</h2>
+<p>2.1. Онлайн-запись через форму на сайте носит предварительный характер. Точное время визита подтверждается мастером по телефону или в мессенджере Telegram.</p>
+<p>2.2. Первичная диагностика неисправности проводится бесплатно при условии дальнейшего проведения ремонтных работ в сервисном центре «VoltFix». В случае отказа Заказчика от ремонта после полной разборки узлов стоимость диагностики оплачивается согласно действующему прайс-листу.</p>
+<p>2.3. Итоговая стоимость и сроки ремонта фиксируются в заказ-наряде после осмотра техники и не могут быть изменены в одностороннем порядке без согласования с Заказчиком.</p>
+
+<h2>3. Сроки и хранение техники</h2>
+<p>3.1. Стандартный ремонт выполняется в течение 1–24 часов при наличии запчастей на складе. Сложный ремонт электроники или заказ редких комплектующих согласовываются индивидуально.</p>
+<p>3.2. Бесплатное хранение отремонтированного электротранспорта на складе Исполнителя составляет 5 (пять) календарных дней с момента уведомления Заказчика о готовности. Начиная с 6-го дня взимается плата за хранение в размере 150 ₽ в сутки.</p>
+
+<h2>4. Гарантийные обязательства</h2>
+<p>4.1. Гарантия на выполненные работы и установленные комплектующие составляет от 30 календарных дней до 12 месяцев в зависимости от категории услуги.</p>
+<p>4.2. Гарантия не распространяется на естественный износ расходников (покрышки, камеры, тормозные колодки), механические повреждения, попадание влаги внутрь деки (при отсутствии заказанной услуги комплексной гидроизоляции IP67), а также при обнаружении следов самостоятельного вскрытия или вмешательства в прошивку контроллеров.</p>
+
+<h2>5. Обработка персональных данных (ФЗ-152)</h2>
+<p>5.1. Заполняя форму на сайте, Заказчик дает свое согласие на сбор и хранение контактных данных (имя, телефон, аккаунт Telegram, модель техники) исключительно в целях обратной связи, записи на обслуживание и информирования о статусе ремонта.</p>
+
+<a href="site.html#ord" class="btn">← Вернуться к записи на ремонт</a>
+</body>
+</html>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VoltFix — Ремонт и тюнинг электросамокатов</title>
+<style>
+:root{--bg:#0d0f12;--card:#161920;--acc:#00e5ff;--txt:#fff;--mut:#9ca3af;--brd:#262b36}
+*{box-sizing:border-box;margin:0;padding:0;scroll-behavior:smooth}
+body{font-family:system-ui,-apple-system,sans-serif;background:var(--bg);color:var(--txt);line-height:1.6}
+.c{max-width:1100px;margin:0 auto;padding:0 20px}
+header{padding:18px 0;border-bottom:1px solid var(--brd);position:sticky;top:0;background:rgba(13,15,18,.95);z-index:10}
+.nav{display:flex;justify-content:space-between;align-items:center}
+.logo{font-size:24px;font-weight:800}.logo span{color:var(--acc)}
+.links{display:flex;gap:20px;align-items:center}
+.links a{color:var(--mut);text-decoration:none;font-size:15px;font-weight:600}
+.links a:hover{color:var(--acc)}
+.nbtn{background:rgba(0,229,255,.12);color:var(--acc)!important;border:1px solid var(--acc);padding:8px 16px;border-radius:8px}
+.hero{padding:80px 0;background:radial-gradient(circle at 80% 20%,rgba(0,229,255,.12),transparent 50%);border-bottom:1px solid var(--brd)}
+.badge{display:inline-block;background:rgba(0,229,255,.1);color:var(--acc);padding:6px 14px;border-radius:20px;font-size:13px;font-weight:600;margin-bottom:18px;border:1px solid rgba(0,229,255,.3)}
+.hero h1{font-size:44px;font-weight:800;line-height:1.15;max-width:720px;margin-bottom:18px}
+.hero p{font-size:18px;color:var(--mut);max-width:580px;margin-bottom:32px}
+.btn{display:inline-block;background:var(--acc);color:#000;font-weight:800;font-size:16px;padding:15px 30px;border-radius:10px;text-decoration:none;border:none;cursor:pointer}
+section{padding:65px 0;border-bottom:1px solid var(--brd)}
+h2{font-size:30px;font-weight:800;margin-bottom:32px}
+.g4{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:18px}
+.g2{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:20px}
+.card{background:var(--card);border:1px solid var(--brd);padding:24px;border-radius:14px;display:flex;flex-direction:column;justify-content:space-between}
+.card h3{font-size:18px;margin-bottom:8px}
+.card p{color:var(--mut);font-size:14px}
+.cf{margin-top:18px;display:flex;justify-content:space-between;align-items:center}
+.price{font-size:19px;font-weight:800;color:var(--acc)}
+.bsm{background:transparent;color:#fff;border:1px solid var(--brd);padding:7px 14px;border-radius:8px;font-size:13px;font-weight:600;text-decoration:none}
+.fbox{background:var(--card);border:1px solid var(--brd);border-radius:16px;padding:36px;max-width:600px;margin:0 auto}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.ig{margin-bottom:14px}
+label.fl{display:block;font-size:13px;color:var(--mut);margin-bottom:5px;font-weight:600}
+input[type=text],input[type=date],select,textarea{width:100%;padding:12px 14px;background:var(--bg);border:1px solid var(--brd);border-radius:8px;color:#fff;font-size:15px}
+.twrap{display:flex;align-items:flex-start;gap:10px;margin:16px 0 20px;font-size:13px;color:var(--mut)}
+.twrap input{width:18px;height:18px;margin-top:2px;accent-color:var(--acc);cursor:pointer}
+.tlink{color:var(--acc);text-decoration:underline;font-weight:600}
+.ok{display:none;margin-top:16px;padding:14px;background:rgba(0,229,255,.12);border:1px solid var(--acc);border-radius:8px;color:var(--acc);font-weight:600;text-align:center}
+footer{padding:30px 0;text-align:center;color:var(--mut);font-size:14px}
+@media(max-width:768px){.hero h1{font-size:30px}.links a:not(.nbtn){display:none}.row{grid-template-columns:1fr}.fbox{padding:22px}}
+</style>
+</head>
+<body>
+
+<header><div class="c nav"><div class="logo">Volt<span>Fix</span></div><div class="links"><a href="#adv">Преимущества</a><a href="#srv">Услуги</a><a href="#ord" class="nbtn">Записаться на ремонт</a></div></div></header>
+
+<div class="hero"><div class="c"><div class="badge">⚡ Сервис электротранспорта • Гарантия до 1 года</div><h1>Ремонт и тюнинг электросамокатов за 1 день</h1><p>Устраняем любые поломки: от замены резины и прокачки тормозов до переборки контроллеров, пайки проводки и полной гидроизоляции.</p><a href="#ord" class="btn">Записаться на ремонт</a></div></div>
+
+<section id="adv"><div class="c"><h2>Почему нам доверяют технику</h2><div class="g4"><div class="card"><h3>🔧 Запчасти в наличии</h3><p>Контроллеры, покрышки, колодки и аккумуляторы для популярных моделей.</p></div><div class="card"><h3>🔍 Бесплатная диагностика</h3><p>Определим причину поломки и назовем точную цену до начала работ.</p></div><div class="card"><h3>🛡 Гарантия до 1 года</h3><p>Гарантийный талон на все детали и выполненные работы.</p></div><div class="card"><h3>📸 Фотоотчет в Telegram</h3><p>Скидываем фото и видео сборки деки на каждом этапе.</p></div></div></div></section>
+
+<section id="srv"><div class="c"><h2>Популярные услуги и цены</h2><div class="g2"><div class="card"><div><h3>💧 Комплексная гидроизоляция (IP67)</h3><p>Полная защита деки, мотор-колес, дисплея и контроллеров от воды и реагентов.</p></div><div class="cf"><div class="price">от 3 500 ₽</div><a href="#ord" class="bsm" onclick="document.getElementById('srvSel').value='Комплексная гидроизоляция (IP67)'">Выбрать →</a></div></div><div class="card"><div><h3>🛞 Замена покрышек / слики</h3><p>Аккуратная разбортовка мотор-колеса без повреждения обода.</p></div><div class="cf"><div class="price">от 1 500 ₽</div><a href="#ord" class="bsm" onclick="document.getElementById('srvSel').value='Замена покрышек / слики'">Выбрать →</a></div></div><div class="card"><div><h3>⚡ Ремонт электрики и контроллеров</h3><p>Пайка проводки, датчики Холла, установка активного охлаждения.</p></div><div class="cf"><div class="price">от 2 500 ₽</div><a href="#ord" class="bsm" onclick="document.getElementById('srvSel').value='Ремонт электрики и контроллеров'">Выбрать →</a></div></div><div class="card"><div><h3>⚙️ Сезонное ТО и подвеска</h3><p>Смазка подшипников, протяжка узлов и прокачка гидравлики.</p></div><div class="cf"><div class="price">от 2 000 ₽</div><a href="#ord" class="bsm" onclick="document.getElementById('srvSel').value='Сезонное ТО и подвеска'">Выбрать →</a></div></div></div></div></section>
+
+<section id="ord"><div class="c"><div class="fbox"><h2>Записаться на ремонт</h2><p style="color:var(--mut);margin-bottom:20px">Оставьте заявку — мастер свяжется с вами в течение 10 минут.</p>
+
+<iframe name="tg_frame" style="display:none;"></iframe>
+
+<form action="https://telegram.org" method="GET" target="tg_frame" onsubmit="setTimeout(()=>{this.reset();document.getElementById('okBox').style.display='block';},300)">
+<input type="hidden" name="chat_id" value="5732147169">
+<input type="hidden" name="text" id="tgText">
+
+<div class="row"><div class="ig"><label class="fl">Ваше имя *</label><input type="text" id="fName" placeholder="Алексей" required oninput="upd()"></div><div class="ig"><label class="fl">Телефон или Telegram *</label><input type="text" id="fContact" placeholder="+7 (999) 000-00-00" required oninput="upd()"></div></div>
+<div class="row"><div class="ig"><label class="fl">Модель самоката *</label><input type="text" id="fModel" placeholder="Wolong G1 Pro" required oninput="upd()"></div><div class="ig"><label class="fl">Желаемая дата</label><input type="date" id="fDate" onchange="upd()"></div></div>
+<div class="ig"><label class="fl">Услуга</label><select id="srvSel" onchange="upd()"><option value="Бесплатная диагностика">Бесплатная диагностика</option><option value="Комплексная гидроизоляция (IP67)">Комплексная гидроизоляция (IP67)</option><option value="Замена покрышек / слики">Замена покрышек / слики</option><option value="Ремонт электрики и контроллеров">Ремонт электрики и контроллеров</option><option value="Сезонное ТО и подвеска">Сезонное ТО и подвеска</option></select></div>
+<div class="ig"><label class="fl">Комментарий</label><textarea id="fComm" rows="2" placeholder="Опишите проблему..." oninput="upd()"></textarea></div>
+<div class="twrap"><input type="checkbox" id="chk" required><span>Я принимаю условия <a href="terms.html" target="_blank" class="tlink">Пользовательского соглашения</a> и даю согласие на обработку персональных данных (ФЗ-152).</span></div>
+<button type="submit" class="btn" style="width:100%" onclick="upd()">Записаться на ремонт</button>
+</form>
+
+<div class="ok" id="okBox">✅ Заявка на запись принята! Мастер скоро свяжется с вами.</div>
+</div></div></section>
+
+<footer><div class="c"><p>VoltFix — Сервис ремонта электротранспорта • Ежедневно 10:00 – 21:00 • © 2026</p><p style="margin-top:8px"><a href="terms.html" target="_blank" class="tlink">Пользовательское соглашение и политика конфиденциальности</a></p></div></footer>
+
+<script>
+function upd(){
+  document.getElementById('tgText').value =
+    "⚡ ЗАЯВКА С САЙТА VOLTFIX!\n\n" +
+    "👤 Имя: " + document.getElementById('fName').value + "\n" +
+    "📞 Контакт: " + document.getElementById('fContact').value + "\n" +
+    "🛴 Модель: " + document.getElementById('fModel').value + "\n" +
+    "📅 Дата: " + (document.getElementById('fDate').value || "Не выбрана") + "\n" +
+    "🛠 Услуга: " + document.getElementById('srvSel').value + "\n" +
+    "💬 Коммент: " + (document.getElementById('fComm').value || "-");
+}
+</script>
+</body>
+</html>
